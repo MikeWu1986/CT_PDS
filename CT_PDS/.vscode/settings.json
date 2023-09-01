@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "myslave.h": "c",
+        "main.h": "c",
+        "master.h": "c",
+        "mymaster.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "data.h": "c",
+        "canfestival.h": "c",
+        "app_can.h": "c",
+        "app_gpio.h": "c",
+        "pds_peripheralksz8081.h": "c",
+        "pds_socethernet.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
